@@ -1,0 +1,6 @@
+[toolchain]
+#latested nightly that works fine
+#channel = "nightly-2023-05-25"
+#crashes on this version and anything newer
+channel = "nightly-2023-05-26"
+profile = "minimal"
